@@ -1,3 +1,7 @@
 venv
 .nmlcache
 build/
+ss.grf
+# ex
+.venv
+ss-ex.grf
