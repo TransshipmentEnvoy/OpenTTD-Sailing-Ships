@@ -1,2 +1,2 @@
-TITLE :Sailing Ships (community)
+TITLE :Sailing Ships (Extended)
 VERSION :0.73
