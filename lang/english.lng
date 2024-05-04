@@ -39,3 +39,7 @@ STR_SCHON_BUYMENU :{BLACK}Propulsion: {GOLD}Fore-and-aft rigged
 STR_STEAM_BUYMENU :{BLACK}Propulsion: {GOLD}Three fully rigged masts, a fourth fore-and-aft Jigger-mast, and a steam screw
 STR_WINDJ_BUYMENU :{BLACK}Propulsion: {GOLD}Four fully rigged masts
 STR_KETCH_BUYMENU :{BLACK}Propulsion: {GOLD}Fore-and-aft rigged
+
+#ARTI
+STR_MAIN_DECK                                                   :Main deck
+STR_AUXILIARY_DECK                                              :Auxiliary deck
